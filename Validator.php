@@ -162,6 +162,3 @@ class Validator
         return $this;
     }
 }
-
-
-$tes= new Validator();
